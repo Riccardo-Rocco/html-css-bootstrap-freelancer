@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#jumbo{
+    background-color: rgb(14, 165, 165);
+}
+
+.img-jumbo{
+    width: 10rem;
+}
+
+.line {
+    width: 120px; 
+    height: 2px;
+}
+
+.img-card{
+    width: 90%;
+}
+
+
