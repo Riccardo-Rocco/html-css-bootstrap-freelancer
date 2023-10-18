@@ -2,6 +2,14 @@
     box-sizing: border-box;
     margin: 0 auto;
 }
+header{
+    background-color: black;
+    
+}
+
+#myColor{
+    background-color: white;
+}
 
 #jumbo{
     background-color: rgb(14, 165, 165);
@@ -16,8 +24,15 @@
     height: 2px;
 }
 
-.img-card{
-    width: 90%;
+.button{
+    background-color: rgb(14, 165, 165);
 }
 
+.myIcon{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    background-color: transparent;
+    margin-right: 0.25rem;
+}
 
