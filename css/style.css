@@ -1,11 +1,17 @@
-*{
-    box-sizing: border-box;
-    margin: 0 auto;
-}
+
 header{
     background-color: black;
     
 }
+
+.myFooter1{
+    background-color:grey;
+}
+
+.myFooter2{
+    background-color:black;
+}
+
 
 #myColor{
     background-color: white;
@@ -24,8 +30,13 @@ header{
     height: 2px;
 }
 
-.button{
+.myButton{
     background-color: rgb(14, 165, 165);
+    border: none;
+}
+
+.myButton:hover{
+    background-color:rgb(14, 165, 165) ;
 }
 
 .myIcon{
@@ -35,4 +46,5 @@ header{
     background-color: transparent;
     margin-right: 0.25rem;
 }
+
 
